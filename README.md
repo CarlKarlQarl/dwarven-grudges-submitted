@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Links
+- https://github.com/CarlKarlQarl/dwarven-grudges-submitted
+- https://dashboard.heroku.com/apps/dwarven-grudges-submitted
+- https://console.firebase.google.com/project/dwarven-grudges-submitted-fron/overview
