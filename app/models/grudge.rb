@@ -1,0 +1,2 @@
+class Grudge < ApplicationRecord
+end
